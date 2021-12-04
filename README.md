@@ -1,5 +1,8 @@
 # Click here to [LiveView](https://indecision-app-mans.surge.sh/)
 
+![Screenshot](https://user-images.githubusercontent.com/19681362/144716991-b378963d-1504-4fcd-a269-b94bd456d44b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
